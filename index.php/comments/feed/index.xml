@@ -11,56 +11,11 @@
 	<atom:link href="/index.php/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>INDIA’S LEADING STRUCTURAL ENGINEERS</description>
-	<lastBuildDate>Fri, 02 Sep 2022 17:31:26 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 01 Jun 2023 07:42:43 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.2.2</generator>
-	<item>
-		<title>
-		Comment on The Most Inspiring Interior Design Of 2022 by Kelian Anderson		</title>
-		<link>/index.php/2022/08/29/the-most-inspiring-interior-design-of-2022/#comment-10</link>
-
-		<dc:creator><![CDATA[Kelian Anderson]]></dc:creator>
-		<pubDate>Fri, 02 Sep 2022 17:31:26 +0000</pubDate>
-		<guid isPermaLink="false">https://themexriver.com/wp/spero/?p=658#comment-10</guid>
-
-					<description><![CDATA[Kroident dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.]]></description>
-			<content:encoded><![CDATA[<p>Kroident dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-]]></content:encoded>
-		
-			</item>
-		<item>
-		<title>
-		Comment on The Most Inspiring Interior Design Of 2022 by Rosalina D. William		</title>
-		<link>/index.php/2022/08/29/the-most-inspiring-interior-design-of-2022/#comment-9</link>
-
-		<dc:creator><![CDATA[Rosalina D. William]]></dc:creator>
-		<pubDate>Thu, 01 Sep 2022 17:34:37 +0000</pubDate>
-		<guid isPermaLink="false">https://themexriver.com/wp/spero/?p=658#comment-9</guid>
-
-					<description><![CDATA[In reply to &lt;a href=&quot;/index.php/2022/08/29/the-most-inspiring-interior-design-of-2022/#comment-8&quot;&gt;Adam Smit&lt;/a&gt;.
-
-Rationeipsum dolor sit amet, consectetur adipisicing elit. Doloribus, omnis fugit corporis iste magnam ratione.]]></description>
-			<content:encoded><![CDATA[<p>In reply to <a href="/index.php/2022/08/29/the-most-inspiring-interior-design-of-2022/#comment-8">Adam Smit</a>.</p>
-<p>Rationeipsum dolor sit amet, consectetur adipisicing elit. Doloribus, omnis fugit corporis iste magnam ratione.</p>
-]]></content:encoded>
-		
-			</item>
-		<item>
-		<title>
-		Comment on The Most Inspiring Interior Design Of 2022 by Adam Smit		</title>
-		<link>/index.php/2022/08/29/the-most-inspiring-interior-design-of-2022/#comment-8</link>
-
-		<dc:creator><![CDATA[Adam Smit]]></dc:creator>
-		<pubDate>Thu, 01 Sep 2022 17:28:35 +0000</pubDate>
-		<guid isPermaLink="false">https://themexriver.com/wp/spero/?p=658#comment-8</guid>
-
-					<description><![CDATA[Adipisicing ipsum dolor sit amet, consectetur adipisicing elit. Doloribus, omnis fugit corporis iste magnam ratione.]]></description>
-			<content:encoded><![CDATA[<p>Adipisicing ipsum dolor sit amet, consectetur adipisicing elit. Doloribus, omnis fugit corporis iste magnam ratione.</p>
-]]></content:encoded>
-		
-			</item>
-	</channel>
+</channel>
 </rss>
