@@ -1,0 +1,232 @@
+/* ====================================================
+    Responsive
+==================================================== */
+/* Desktop 1200 - up */
+@media (min-width: 1200px) {
+    .container {
+        max-width: 1200px;
+    }
+}
+
+/* Normal desktop :992px. (Laptop 14") */
+@media (min-width: 992px) and (max-width: 1199px) {
+    /* Global */
+    h1 {
+        font-size: 30px;
+    }
+    h2 {
+        font-size: 26px;
+    }
+    h3 {
+        font-size: 22px;
+    }
+    h4 {
+        font-size: 20px;
+    }
+    h5 {
+        font-size: 18px;
+    }
+    h6 {
+        font-size: 16px;
+    }
+}
+
+ 
+/* Tablet device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+    /* Global */
+    body {
+        font-size: 14px;
+    }
+    h1 {
+        font-size: 26px;
+    }
+    h2 {
+        font-size: 22px;
+    }
+    h3 {
+        font-size: 20px;
+    }
+    h4 {
+        font-size: 18px;
+    }
+    h5 {
+        font-size: 16px;
+    }
+    h6 {
+        font-size: 15px;
+    }
+    p {
+        font-size: 14px;
+    }
+	.bg-image-right-before .bg-layer{
+		display:none;	
+	}
+	.blog-sidebar{
+		margin-top:70px;	
+	}
+	.blog-prev, .blog-next {
+		text-align: center !important;
+		width: 100%;
+		margin:40px 0px;
+	}
+}
+
+ 
+/* small mobile :320px. */
+@media (max-width: 767px) {
+    /* Global */
+    body {
+        font-size: 14px;
+    }
+    h1 {
+        font-size: 24px;
+    }
+    h2 {
+        font-size: 20px;
+    }
+    h3 {
+        font-size: 18px;
+    }
+    h4 {
+        font-size: 17px;
+    }
+    h5 {
+        font-size: 16px;
+    }
+    h6 {
+        font-size: 14px;
+    }
+    p {
+        font-size: 14px;
+    }
+	.bg-image-right-before .bg-layer{
+		display:none;	
+	}
+	.footer-newsletter input[type="email"]{
+		height:62px;	
+	}
+	
+	.ltn__comment-reply-btn{
+		margin-top:20px;	
+	}
+	.blog-prev,
+	.blog-next {
+		text-align:center !important;
+		width:100%;	
+	}
+	.spero-comment-item .spero-comment-item{
+		margin-left:0px;	
+	}
+	
+    .woocommerce .col2-set .col-1, .woocommerce .col2-set .col-2, .woocommerce-page .col2-set .col-1, .woocommerce-page .col2-set .col-2,
+	.woocommerce .col2-set .col-2, .woocommerce-page .col2-set .col-2{
+		width:100%;
+		float:none;
+		max-width: 100% !important;
+	}
+	.woocommerce .col2-set .col-2,.woocommerce-page .col2-set .col-2{
+		margin-top:40px;
+	}
+	.woocommerce table.shop_table{
+		border:1px solid #f3f3f3;
+	}
+	.woocommerce .shop_table tbody tr.cart_item td{
+		padding:15px;
+	}
+	.woocommerce .shop_table tbody tr td.actions{
+		padding:15px !important;
+	}
+	.woocommerce .shop_table tbody tr td.actions .coupon{
+		display:block;
+	}
+	.woocommerce-cart table.cart td.actions .coupon .input-text{
+		width:100%;
+		margin-bottom:15px;
+	}
+	.cart .quantity input.input-text{
+	    margin-right:10px;   
+	}
+	.slick-slide img,
+	.ltn__blog-img img,
+	.ltn__video-img img{
+		height:auto;
+	}
+	.ltn__blog-area .ltn__blog-list-wrap{
+		margin-top:70px;	
+	}
+	.ltn-author-introducing .author-img img{
+		height:auto;	
+	}
+	.blog-prev, .blog-next {
+		text-align: center !important;
+		width: 100%;
+	}
+
+}
+
+@media only screen and (max-width: 667px){
+    .woocommerce div.product div.images.woocommerce-product-gallery,
+    .woocommerce div.product div.summary.entry-summary{
+        width:100%;
+        margin:10px 0px;
+    }
+}
+
+
+@media only screen and (max-width: 599px){
+	.woocommerce div.product div.images.woocommerce-product-gallery,
+    .woocommerce div.product div.summary.entry-summary{
+        width:100%;
+        margin:10px 0px;
+    }
+    .woocommerce .woocommerce-form-coupon p{
+		float:none;
+		width:100%;
+	}
+	.shop-page .prod-tabs .tab-btns .tab-btn{
+		width:100%;
+		margin-right:0px;
+	}
+	.cart-section .coupon-outer .theme-btn,
+	.cart-section .apply-coupon .form-group input[type="text"],
+	.cart-section .coupon-outer .pull-left{
+		width:100%;
+	}
+	
+	.cart-section .apply-coupon .form-group{
+		margin-right:0px;
+		width:100%;
+	}
+	.woocommerce-page table.cart td.actions .coupon .button,
+	.woocommerce form.woocommerce-form-coupon .form-row{
+	    width:100%   
+	}
+}
+
+@media (max-width: 479px) {
+	.footer-widget ul li, .footer-widget ol li{
+		width:100%;	
+	}
+	.woocommerce div.product .woocommerce-tabs ul.tabs li a{
+	    padding:12px 20px 10px;   
+	}
+	
+	.totals-table li .col-title{
+		padding:0px;
+	}
+	
+	.cart-total-box{
+		padding-left:15px;
+		padding-right:15px;
+	}
+	.shop-page .prod-tabs .reviews-container .rev-header .time{
+		position:relative;
+		width:100%;
+		margin-top:0px;
+	}
+	.woocommerce-page table.cart td.actions .coupon .button{
+		float:none;
+		width:100%;
+	}
+}
